@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\bin\Debug\net6.0\ConsoleApp1444444444444444.exe
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\bin\Debug\net6.0\ConsoleApp1444444444444444.deps.json
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\bin\Debug\net6.0\ConsoleApp1444444444444444.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\bin\Debug\net6.0\ConsoleApp1444444444444444.dll
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\bin\Debug\net6.0\ConsoleApp1444444444444444.pdb
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.dll
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\refint\ConsoleApp1444444444444444.dll
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.pdb
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ConsoleApp1444444444444444.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp1444444444444444\ConsoleApp1444444444444444\obj\Debug\net6.0\ref\ConsoleApp1444444444444444.dll
